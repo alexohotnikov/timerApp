@@ -1,0 +1,13 @@
+/* Class = "UILabel"; text = "0"; ObjectID = "1Y8-JM-sKu"; */
+"1Y8-JM-sKu.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Старт"; ObjectID = "64G-rs-EbJ"; */
+"64G-rs-EbJ.normalTitle" = "Старт";
+
+/* Class = "UIButton"; normalTitle = "Сброс"; ObjectID = "fKf-EU-VqC"; */
+"fKf-EU-VqC.normalTitle" = "Сброс";
+
+
+"Start" = "Старт";
+"Reset" = "Сброс";
+"Reseted" = "Сброшенно";

@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  timer
+
+  Created by Aleksandr Ohotnikov on 27.07.2018.
+  Copyright © 2018 Aleksandr Ohotnikov. All rights reserved.
+*/
+
+
+start = "Старт";
+stop = "Стоп";
+reset = "Сброс";
+reseted = "Сброшенно!";
+startMessage = "Начнём?";
+
