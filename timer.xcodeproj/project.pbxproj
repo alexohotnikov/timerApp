@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		668203B6210B0DDF006BF8FB /* time.png in Resources */ = {isa = PBXBuildFile; fileRef = 668203B5210B0DDF006BF8FB /* time.png */; };
 		668203C0210B1AF3006BF8FB /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 668203C2210B1AF3006BF8FB /* Localizable.strings */; };
-		668203C5210B1C89006BF8FB /* images.png in Resources */ = {isa = PBXBuildFile; fileRef = 668203C4210B1C89006BF8FB /* images.png */; };
 		66AE0D1A21064C2300FCFFBD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AE0D1921064C2300FCFFBD /* AppDelegate.swift */; };
 		66AE0D1C21064C2300FCFFBD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66AE0D1B21064C2300FCFFBD /* ViewController.swift */; };
 		66AE0D1F21064C2300FCFFBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66AE0D1D21064C2300FCFFBD /* Main.storyboard */; };
@@ -43,7 +42,6 @@
 		668203BB210B1037006BF8FB /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		668203BC210B15FE006BF8FB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		668203C1210B1AF3006BF8FB /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
-		668203C4210B1C89006BF8FB /* images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = images.png; path = ../../../Downloads/images.png; sourceTree = "<group>"; };
 		668203C6210B1C8E006BF8FB /* images.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = images.png; sourceTree = "<group>"; };
 		66AE0D1621064C2300FCFFBD /* timer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = timer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		66AE0D1921064C2300FCFFBD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -131,7 +129,6 @@
 				66AE0D2021064C2400FCFFBD /* Assets.xcassets */,
 				66AE0D2521064C2400FCFFBD /* Info.plist */,
 				668203C2210B1AF3006BF8FB /* Localizable.strings */,
-				668203C4210B1C89006BF8FB /* images.png */,
 			);
 			path = timer;
 			sourceTree = "<group>";
@@ -242,6 +239,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ru,
 			);
 			mainGroup = 66AE0D0D21064C2300FCFFBD;
 			productRefGroup = 66AE0D1721064C2300FCFFBD /* Products */;
@@ -263,7 +261,6 @@
 				668203C0210B1AF3006BF8FB /* Localizable.strings in Resources */,
 				66AE0D2421064C2400FCFFBD /* LaunchScreen.storyboard in Resources */,
 				66AE0D2121064C2400FCFFBD /* Assets.xcassets in Resources */,
-				668203C5210B1C89006BF8FB /* images.png in Resources */,
 				668203B6210B0DDF006BF8FB /* time.png in Resources */,
 				66AE0D1F21064C2300FCFFBD /* Main.storyboard in Resources */,
 			);
